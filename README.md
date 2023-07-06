@@ -6,5 +6,4 @@ Run this command to start the game.
 
 ```
 ruby main.rb 
-
 ```
